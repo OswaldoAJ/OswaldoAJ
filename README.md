@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Hi, I am Oswaldo Álvarez
+#### I am software engineer
+![I am software engineer](https://raw.githubusercontent.com/OswaldoAJ/OswaldoAJ/main/banner%20github.png)
+
+I am programmer who is passionate about to make quality software also I love to make videos for my channel youtube.
+Nowadays I have been focusing on web development
+
+Skills: HTML / CSS / SASS / JavaScript / C# / PHP / SQL / 
+
+- 🔭 I’m currently...
+
+
+
+
 
 <!--
 **OswaldoAJ/OswaldoAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

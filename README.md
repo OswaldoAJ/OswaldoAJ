@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I am Oswaldo Álvarez
+### Hi, I am Oswaldo Álvarez 👋
 #### I am software engineer
 ![I am software engineer](https://raw.githubusercontent.com/OswaldoAJ/OswaldoAJ/main/banner%20github.png)
 

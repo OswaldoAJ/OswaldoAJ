@@ -1,13 +1,19 @@
 ### Hi, I am Oswaldo Álvarez 👋
-#### I am software engineer
+#### I’m software engineer
 ![I am software engineer](https://raw.githubusercontent.com/OswaldoAJ/OswaldoAJ/main/banner%20github.png)
 
-I am programmer who is passionate about to make quality software also I love to make videos for my channel youtube.
-Nowadays I have been focusing on web development
+I’m programmer who is passionate about to make quality software and sharing my knowledge in my youtube channel ![La Ruta Dev](https://youtube.com/@LaRutaDev).
+Nowadays I have been focusing on web development, I love working with technologies like C#, PHP, JS, SQL.
 
 Skills: HTML / CSS / SASS / JavaScript / C# / PHP / SQL / 
 
-- 🔭 I’m currently...
+- 🔭 I’m currently working on ![Telepro](https://telepro.com.mx/).
+- 🤖 I developed a website for a nutritionist: ![nutriologaduran.com](https://www.nutriologaduran.com/).
+- 🌱 I’m currently learning React, MVVM, WPF.
+- ⚡ You can learn with me on my channel: ![La Ruta Dev](https://youtube.com/@LaRutaDev).
+
+
+
 
 
 

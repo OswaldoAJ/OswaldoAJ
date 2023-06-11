@@ -1,9 +1,15 @@
-### Hi, I am Oswaldo Álvarez 👋
-#### I’m software engineer
+<!--### Hi, I am Oswaldo Álvarez 👋 -->
+<!--#### I’m software engineer-->
+### Hola, soy Oswaldo Álvarez 👋
+#### Soy ingeniero de software
+
 ![I am software engineer](https://raw.githubusercontent.com/OswaldoAJ/OswaldoAJ/main/banner%20github.png)
 
-I’m programmer who is passionate about to make quality software and sharing my knowledge in my youtube channel ![La Ruta Dev](https://youtube.com/@LaRutaDev).
-Nowadays I have been focusing on web development, I love working with technologies like C#, PHP, JS, SQL.
+<!--I’m programmer who is passionate about to make quality software and sharing my knowledge in my youtube channel ![La Ruta Dev](https://youtube.com/@LaRutaDev).
+Nowadays I have been focusing on web development, I love working with technologies like C#, PHP, JS, SQL.-->
+
+Soy un programador apasionado por aprender para crear software de calidad y compartir mi conocimiento a traves de mi canal ![La Ruta Dev](https://youtube.com/@LaRutaDev).
+Actualmente yo estoy enfocado en el desarrollo web y amo trabajar con tecnologias como C#, PHP, JS, SQL.
 
 Skills: HTML / CSS / SASS / JavaScript / C# / PHP / SQL / 
 

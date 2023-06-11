@@ -3,7 +3,7 @@
 
 ![I am software engineer](https://raw.githubusercontent.com/OswaldoAJ/OswaldoAJ/main/banner%20github.png)
 
-Soy un programador apasionado por aprender para crear software de calidad y compartir mi conocimiento a traves de mi canal ![La Ruta Dev](https://youtube.com/@LaRutaDev).
+Soy un programador apasionado por aprender para crear software de calidad y compartir mi conocimiento a través de mi canal ![La Ruta Dev](https://youtube.com/@LaRutaDev).
 Actualmente estoy enfocado en el desarrollo web y amo trabajar con tecnologías como C#, PHP, JS, SQL.
 
 Skills: HTML / CSS / SASS / JavaScript / .NET / C# / PHP / SQL / 

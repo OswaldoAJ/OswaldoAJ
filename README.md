@@ -3,12 +3,12 @@
 
 ![I am software engineer](https://raw.githubusercontent.com/OswaldoAJ/OswaldoAJ/main/banner%20github.png)
 
-Soy un programador apasionado por aprender para crear software de calidad y compartir mi conocimiento a través de mi canal ![La Ruta Dev](https://youtube.com/@LaRutaDev).
+Soy un programador apasionado por aprender a crear software de calidad y compartir mi conocimiento a través de mi canal ![La Ruta Dev](https://youtube.com/@LaRutaDev).
 Actualmente estoy enfocado en el desarrollo web y amo trabajar con tecnologías como C#, PHP, JS, SQL.
 
-Skills: HTML / CSS / SASS / JavaScript / .NET / C# / PHP / SQL / 
+Skills: HTML / CSS / SASS / Tailwind / JavaScript / .NET / C# / PHP / SQL / Git / SCRUM /
 
-- 🔭 Actualmente trabajo como desarrollador .NET en ![Telepro](https://telepro.com.mx/).
+- 🔭 Más de un año de experiencia real como desarrollador .NET.
 - 🤖 Desarrollé un sitio web para un profesional de la salud: ![nutriologaduran.com](https://www.nutriologaduran.com/).
 - 🌱 Cada día me encuentro aprendiendo más acerca de React, MVVM, WPF.
 - ⚡ Puedes acompañarme en esta ruta de aprendizaje en mi canal de Youtube: ![La Ruta Dev](https://youtube.com/@LaRutaDev).

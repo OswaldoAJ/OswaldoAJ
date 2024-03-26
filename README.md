@@ -4,13 +4,13 @@
 ![I am software engineer](https://raw.githubusercontent.com/OswaldoAJ/OswaldoAJ/main/banner%20github.png)
 
 Soy un programador apasionado por aprender a crear software de calidad y compartir mi conocimiento a través de mi canal [La Ruta Dev](https://youtube.com/@LaRutaDev).
-Actualmente estoy enfocado en el desarrollo web y amo trabajar con tecnologías como C#, PHP, JS, SQL.
+Actualmente estoy enfocado en el desarrollo web y amo trabajar con tecnologías como C#, .NET, PHP, Symfony, JS, SQL.
 
-Skills: HTML / CSS / SASS / Tailwind / JavaScript / .NET / C# / PHP / SQL / Git / SCRUM /
+Skills: HTML / CSS / SASS / Tailwind / JavaScript / .NET / C# / PHP / Symfony / SQL / Git / SCRUM /
 
-- 🔭 Más de un año de experiencia real como desarrollador .NET.
+- 🔭 Más de 2 años de experiencia real como desarrollador .NET y PHP.
 - 🤖 Desarrollé un sitio web para un profesional de la salud: [nutriologaduran.com](https://www.nutriologaduran.com/).
-- 🌱 Cada día me encuentro aprendiendo más acerca de React, MVVM, WPF.
+- 🌱 Cada día me encuentro aprendiendo más acerca de Symfony, MVVM, WPF.
 - ⚡ Puedes acompañarme en esta ruta de aprendizaje en mi canal de Youtube: [La Ruta Dev](https://youtube.com/@LaRutaDev).
 
 
